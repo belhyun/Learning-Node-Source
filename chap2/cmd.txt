@@ -1,0 +1,3 @@
+env NODE_NO_READLINE=1 rlwrap -ppurple node
+alias node="env NODE_NO_READLINE=1 rlwrap -ppurple node"
+alias node="env NODE_NO_READLINE=1 rlwrap -ppurple -S '::>' node"
